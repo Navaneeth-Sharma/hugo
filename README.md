@@ -1,4 +1,10 @@
-<a href="https://gohugo.io/"><img src="https://raw.githubusercontent.com/gohugoio/gohugoioTheme/master/static/images/hugo-logo-wide.svg?sanitize=true" alt="Hugo" width="565"></a>
+
+
+<a href="https://gohugo.io/">
+   <p align="center">
+       <img src="https://user-images.githubusercontent.com/63489382/182200844-a3ac6c8c-a828-48b8-82b0-607e45aa3ef4.png" alt="drawing" width="400"/>
+   </p>
+</a>
 
 A Fast and Flexible Static Site Generator built with love by [bep](https://github.com/bep), [spf13](https://spf13.com/) and [friends](https://github.com/gohugoio/hugo/graphs/contributors) in [Go][].
 
